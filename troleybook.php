@@ -8,7 +8,7 @@
 
 <body>
 
-    <div class="bdy , header">
+    <div class="header">
 
         <h1>NOVEL MR DR ALPHA<h1>
                 </center>
@@ -100,4 +100,5 @@
             </table>
         </form>
 </body>
+
 </html>

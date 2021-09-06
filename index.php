@@ -1,30 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-        <link href="style.css" rel="stylesheet">
-        <title>NOVEL MR DR ALPHA</title>
+    <link href="style.css" rel="stylesheet">
+    <title>NOVEL MR DR ALPHA</title>
 </head>
 
 <body>
 
-<div class="bdy , header">
-<h1>NOVEL MR DR ALPHA</h1>
-  
-</div>
-<div class="navbar">
+    <div class="header">
+        <center>
+            <h1>NOVEL MR DR ALPHA</h1>
+        </center>
 
-<?php include "containingMenu.php"; ?>
+    </div>
+    <div class="navbar">
 
-</div>
+        <?php include "containingMenu.php"; ?>
 
-<?php
-echo "<p>HOME</p>";
-?>
-<br>
- <p>PENULIS: ANJELL</p1>
- <br><input type="image" src="book2.jpg"></br>
+    </div>
+
+    <?php
+    echo "<p>HOME</p>";
+    ?>
+    <br>
+    <p>PENULIS: ANJELL</p1>
+        <br><input type="image" src="book2.jpg"></br>
 
 
-</var>
+        </var>
 </body>
+
 </html>
