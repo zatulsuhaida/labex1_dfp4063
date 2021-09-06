@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <link href="styles.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <title>NOVEL MR DR ALPHA</title>
 </head>
 

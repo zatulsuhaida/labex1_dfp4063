@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <link href="styles.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
         <title>NOVEL MR DR ALPHA</title>
 </head>
 
@@ -21,7 +21,7 @@
 echo "<p>HOME</p>";
 ?>
 <br>
- <p class="p1">PENULIS: ANJELL</p1>
+ <p>PENULIS: ANJELL</p1>
  <br><input type="image" src="book2.jpg"></br>
 
 

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <link href="styles.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <title>NOVEL MR DR ALPHA</title>
 </head>
 
@@ -21,14 +21,15 @@
 
     </div>
     <?php
-    echo "<p>SINOPSIS </p>";
+    echo "<p> SINOPSIS </p>";
     ?>
+    <br>
     <center>
         <h2>PENULIS: ANJELL
             TAJUK: DR. ALPHA MALE
             HARGA : RM27 (SM)/RM30(SS)</h2>
 
-            <p class="p2">Alpha Male. Kata kunci seorang alpha male adalah keyakinan! Yakin dengan rupanya. Yakin dengan gayanya. Dan dah tentulah yakin dengan percakapannya. Kalau tak, takkanlah terkeluar kata-kata ini ketika kali pertama mereka berdua berlanggar di depan sebuah kedai.
+            <p1>Alpha Male. Kata kunci seorang alpha male adalah keyakinan! Yakin dengan rupanya. Yakin dengan gayanya. Dan dah tentulah yakin dengan percakapannya. Kalau tak, takkanlah terkeluar kata-kata ini ketika kali pertama mereka berdua berlanggar di depan sebuah kedai.
 
             "Dah habis tenung dah? Tak nak ambil gambar ke? Letak bawah bantal. Malam-malam boleh cium." - HILMAN UKASYAH
 
@@ -45,7 +46,7 @@
             Rupa-rupanya apa yang jadi itu membawa kepada pembongkaran kisah yang baru. Malam itu cumalah satu permulaan! Dan... Setelah itu Hazel selalu menjadi Damsel in Distress dan Hilman pula tak putus-putus menjadi Knight in Shining Armornya. Kerana janji Hilman padanya...
 
             "I'll do my best to protect you. Anything. I'll even be taking a bullet for you." - HILMAN UKASYAH
-            Namun, mampukah segalanya terbongkar? Adakah semuanya memang dirancang? Atau sebenarnya hanyalah helah untuk memperdaya?</p2>
-    </center>
+            Namun, mampukah segalanya terbongkar? Adakah semuanya memang dirancang? Atau sebenarnya hanyalah helah untuk memperdaya?</p1>
+</br></center>
 </body>
 </html>
