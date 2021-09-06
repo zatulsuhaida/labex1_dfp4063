@@ -3,13 +3,14 @@
 
 <head>
     <link href="styles.css" rel="stylesheet">
+    <title>NOVEL MR DR ALPHA</title>
 </head>
 
 <body>
 
-    <div class="header">
+    <div class="bdy , header">
 
-        <h1>Novel Mr Dr Alpha<h1>
+        <h1>NOVEL MR DR ALPHA<h1>
                 </center>
     </div>
 
