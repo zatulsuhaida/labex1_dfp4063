@@ -12,9 +12,8 @@
 </div>
 
 <div class="navbar">
+
 <?php include "containingMenu.php"; ?>
-
-
 
 </div> 
 <?php

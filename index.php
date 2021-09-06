@@ -9,14 +9,9 @@
 <h1>NOVEL MR DR ALPHA</h1></center>
   
 </div>
-
 <div class="navbar">
-  
 
 <?php include "containingMenu.php"; ?>
-
-
-
 
 </div>
 
@@ -27,11 +22,7 @@ echo "<p>HOME</p>";
 <center>
  <h2>PENULIS: ANJELL</h2>
  <input type="image" src="book2.jpg">
-
 </center>
-
-
-
 
 </var>
 </body>
