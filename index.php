@@ -6,7 +6,7 @@
 <body>
 
 <div class="header">
-  <h1>Novel Mr Dr Alpha<h1>
+<h1>NOVEL MR DR ALPHA</h1></center>
   
 </div>
 
@@ -21,7 +21,7 @@
 </div>
 
 <?php
-echo "<h1> NOVEL</h1>";
+echo "<p>HOME</p>";
 ?>
 <br>
 <center>
