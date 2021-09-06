@@ -95,12 +95,7 @@ else{
 	
 	
 ?>
-<script>
-	function myFunction() {
-		  alert("Thank you");
-		}
-	window.location="displayinfo.php"
-	</script>
+
 <?php
 	}
 	

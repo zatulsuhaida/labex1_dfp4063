@@ -11,12 +11,15 @@
 </div>
 
 <div class="navbar">
-  <?php include "containingMenu.php"; ?>
   
-  
-  
- 
+
+<?php include "containingMenu.php"; ?>
+
+
+
+
 </div>
+
 <?php
 echo "<h1> NOVEL</h1>";
 ?>
